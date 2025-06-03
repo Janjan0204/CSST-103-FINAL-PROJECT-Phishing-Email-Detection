@@ -24,7 +24,8 @@
    - Preprocess using stemming and stopword removal
    - Train and evaluate the model
    - Use the console input to classify new emails
-
+---- OR -----
+1. Open this Colab Link: https://colab.research.google.com/drive/1YrP5jjl2S6MR3DOF8uJjnhu1MeJio4Uu?usp=sharing 
 ---
 
 ## 🚀 Results
