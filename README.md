@@ -61,7 +61,3 @@ Janna Tricia Pujeda - - Student, [LSPU San Pablo Campus]
 
 
 
-
----
-
-Let me know if you'd like this converted into a downloadable `.md` file or if you want to adjust the style (e.g., minimalistic, academic, flashy).
