@@ -47,14 +47,14 @@ Enter an email to classify:
 Classification: Phishing Email
 
 
-## 📚 References
+ 📚 References
 Dataset Source: Kaggle - Phishing Emails Dataset
 https://www.kaggle.com/datasets/subhajournal/phishingemails/data 
 
 
 
 
-## 👨‍💻 Authors
+👨‍💻 Authors
 John Patrick Tubigan - Student, [LSPU San Pablo Campus]
 Jomarr Jonel Paroan - Student, [LSPU San Pablo Campus]
 Janna Tricia Pujeda - - Student, [LSPU San Pablo Campus]
